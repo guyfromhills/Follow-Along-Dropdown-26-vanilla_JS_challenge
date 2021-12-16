@@ -1,5 +1,6 @@
-
-
+//Project Insights
+// 1. Child Combinator ( > ), selects all the nodes that are direct children of parent element.
+// 2. trigger-enter and trigger-enter-active, a two stage process has been introduced as when trigger-enter initiates display is set to block and DOMRect can return with values of height, width etc even if they are not visible(opacity set to 0), in the meantime when trigger-enter-active has yet not been initiated.
 
 
 
